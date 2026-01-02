@@ -1,0 +1,10 @@
+<library path="quadruped_locomotion_controller">
+  <class
+    name="quadruped_locomotion_controller/Controller"
+    type="ql_controller::QLController"
+    base_class_type="controller_interface::ControllerInterface">
+    <description>
+      ROS2 controller adapter for quadruped_locomotion stack
+    </description>
+  </class>
+</library>

@@ -1,0 +1,10 @@
+<library path="quadruped_locomotion_system">
+  <class
+    name="quadruped_locomotion_system/System"
+    type="ql_system::QLSystem" 
+    base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ROS2 hardwate interface adapter for quadruped_locomotion stack
+    </description>
+  </class>
+</library>
